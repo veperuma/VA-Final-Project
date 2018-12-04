@@ -1,0 +1,421 @@
+﻿State_Code,State_Abv,Damage_Code,Damage_Descp,Amount
+1,AL,1,Auto,16
+1,AL,2,Business Loans,4
+1,AL,3,Debt Relief,1
+1,AL,4,Home Equity,13
+1,AL,5,Personal,121
+1,AL,6,Purchase,34
+1,AL,7,Refinance,27
+1,AL,8,Reverse Mortgage,1
+2,AK,1,Auto,0
+2,AK,3,Debt Relief,0
+2,AK,4,Home Equity,1
+2,AK,5,Personal,10
+2,AK,6,Purchase,2
+2,AK,7,Refinance,3
+2,AK,8,Reverse Mortgage,0
+2,AK,9,Student Loans,0
+4,AZ,1,Auto,15
+4,AZ,2,Business Loans,3
+4,AZ,4,Home Equity,11
+4,AZ,5,Personal,169
+4,AZ,6,Purchase,39
+4,AZ,7,Refinance,26
+4,AZ,8,Reverse Mortgage,2
+5,AR,1,Auto,4
+5,AR,2,Business Loans,0
+5,AR,10,CreditAnalyzer,0
+5,AR,4,Home Equity,4
+5,AR,5,Personal,47
+5,AR,6,Purchase,13
+5,AR,7,Refinance,12
+5,AR,8,Reverse Mortgage,1
+6,CA,1,Auto,110
+6,CA,2,Business Loans,13
+6,CA,3,Debt Relief,2
+6,CA,4,Home Equity,101
+6,CA,5,Personal,1341
+6,CA,11,Prequalification,0
+6,CA,6,Purchase,335
+6,CA,7,Refinance,196
+6,CA,8,Reverse Mortgage,12
+8,CO,1,Auto,8
+8,CO,2,Business Loans,2
+8,CO,4,Home Equity,14
+8,CO,5,Personal,149
+8,CO,6,Purchase,35
+8,CO,7,Refinance,31
+8,CO,8,Reverse Mortgage,0
+9,CT,1,Auto,17
+9,CT,2,Business Loans,0
+9,CT,4,Home Equity,13
+9,CT,5,Personal,90
+9,CT,6,Purchase,20
+9,CT,7,Refinance,22
+9,CT,8,Reverse Mortgage,1
+10,DE,1,Auto,2
+10,DE,2,Business Loans,0
+10,DE,4,Home Equity,4
+10,DE,5,Personal,20
+10,DE,6,Purchase,5
+10,DE,7,Refinance,3
+10,DE,8,Reverse Mortgage,1
+#N/A,DC,1,Auto,2
+#N/A,DC,2,Business Loans,2
+#N/A,DC,3,Debt Relief,0
+#N/A,DC,4,Home Equity,3
+#N/A,DC,5,Personal,39
+#N/A,DC,6,Purchase,7
+#N/A,DC,7,Refinance,4
+#N/A,DC,8,Reverse Mortgage,0
+12,FL,1,Auto,56
+12,FL,2,Business Loans,15
+12,FL,10,CreditAnalyzer,0
+12,FL,3,Debt Relief,0
+12,FL,4,Home Equity,55
+12,FL,5,Personal,693
+12,FL,11,Prequalification,0
+12,FL,6,Purchase,172
+12,FL,7,Refinance,115
+12,FL,8,Reverse Mortgage,9
+13,GA,1,Auto,41
+13,GA,2,Business Loans,4
+13,GA,10,CreditAnalyzer,0
+13,GA,3,Debt Relief,0
+13,GA,4,Home Equity,53
+13,GA,5,Personal,541
+13,GA,11,Prequalification,0
+13,GA,6,Purchase,128
+13,GA,7,Refinance,89
+13,GA,8,Reverse Mortgage,2
+15,HI,1,Auto,1
+15,HI,2,Business Loans,0
+15,HI,3,Debt Relief,0
+15,HI,4,Home Equity,4
+15,HI,5,Personal,36
+15,HI,6,Purchase,5
+15,HI,7,Refinance,7
+15,HI,8,Reverse Mortgage,0
+16,ID,1,Auto,4
+16,ID,2,Business Loans,1
+16,ID,3,Debt Relief,0
+16,ID,4,Home Equity,3
+16,ID,5,Personal,25
+16,ID,6,Purchase,4
+16,ID,7,Refinance,6
+16,ID,8,Reverse Mortgage,0
+17,IL,1,Auto,45
+17,IL,2,Business Loans,9
+17,IL,3,Debt Relief,2
+17,IL,4,Home Equity,36
+17,IL,5,Personal,508
+17,IL,11,Prequalification,0
+17,IL,6,Purchase,106
+17,IL,7,Refinance,60
+17,IL,8,Reverse Mortgage,1
+18,IN,1,Auto,14
+18,IN,2,Business Loans,6
+18,IN,10,CreditAnalyzer,0
+18,IN,4,Home Equity,10
+18,IN,5,Personal,163
+18,IN,6,Purchase,36
+18,IN,7,Refinance,31
+18,IN,8,Reverse Mortgage,1
+19,IA,1,Auto,4
+19,IA,2,Business Loans,0
+19,IA,3,Debt Relief,0
+19,IA,4,Home Equity,6
+19,IA,5,Personal,64
+19,IA,11,Prequalification,0
+19,IA,6,Purchase,6
+19,IA,7,Refinance,8
+19,IA,8,Reverse Mortgage,2
+20,KS,1,Auto,3
+20,KS,2,Business Loans,1
+20,KS,3,Debt Relief,0
+20,KS,4,Home Equity,4
+20,KS,5,Personal,50
+20,KS,6,Purchase,12
+20,KS,7,Refinance,7
+20,KS,8,Reverse Mortgage,1
+21,KY,1,Auto,4
+21,KY,2,Business Loans,0
+21,KY,4,Home Equity,6
+21,KY,5,Personal,87
+21,KY,6,Purchase,27
+21,KY,7,Refinance,16
+21,KY,8,Reverse Mortgage,2
+22,LA,1,Auto,5
+22,LA,2,Business Loans,3
+22,LA,3,Debt Relief,1
+22,LA,4,Home Equity,4
+22,LA,5,Personal,88
+22,LA,6,Purchase,20
+22,LA,7,Refinance,18
+22,LA,8,Reverse Mortgage,2
+23,ME,1,Auto,1
+23,ME,2,Business Loans,3
+23,ME,3,Debt Relief,0
+23,ME,4,Home Equity,1
+23,ME,5,Personal,22
+23,ME,11,Prequalification,1
+23,ME,6,Purchase,7
+23,ME,7,Refinance,6
+23,ME,8,Reverse Mortgage,0
+24,MD,1,Auto,15
+24,MD,2,Business Loans,1
+24,MD,10,CreditAnalyzer,0
+24,MD,3,Debt Relief,0
+24,MD,4,Home Equity,19
+24,MD,5,Personal,180
+24,MD,6,Purchase,51
+24,MD,7,Refinance,27
+24,MD,8,Reverse Mortgage,0
+25,MA,1,Auto,9
+25,MA,2,Business Loans,0
+25,MA,10,CreditAnalyzer,0
+25,MA,3,Debt Relief,0
+25,MA,4,Home Equity,18
+25,MA,5,Personal,189
+25,MA,11,Prequalification,0
+25,MA,6,Purchase,37
+25,MA,7,Refinance,33
+25,MA,8,Reverse Mortgage,3
+26,MI,1,Auto,18
+26,MI,2,Business Loans,2
+26,MI,3,Debt Relief,0
+26,MI,4,Home Equity,20
+26,MI,5,Personal,269
+26,MI,11,Prequalification,0
+26,MI,6,Purchase,60
+26,MI,7,Refinance,49
+26,MI,8,Reverse Mortgage,4
+27,MN,1,Auto,10
+27,MN,2,Business Loans,3
+27,MN,10,CreditAnalyzer,0
+27,MN,4,Home Equity,9
+27,MN,5,Personal,119
+27,MN,6,Purchase,21
+27,MN,7,Refinance,21
+27,MN,8,Reverse Mortgage,1
+28,MS,1,Auto,6
+28,MS,2,Business Loans,0
+28,MS,4,Home Equity,8
+28,MS,5,Personal,67
+28,MS,6,Purchase,18
+28,MS,7,Refinance,12
+28,MS,8,Reverse Mortgage,0
+29,MO,1,Auto,12
+29,MO,2,Business Loans,2
+29,MO,3,Debt Relief,0
+29,MO,4,Home Equity,12
+29,MO,5,Personal,139
+29,MO,6,Purchase,43
+29,MO,7,Refinance,24
+29,MO,8,Reverse Mortgage,1
+30,MT,1,Auto,1
+30,MT,2,Business Loans,0
+30,MT,4,Home Equity,0
+30,MT,5,Personal,22
+30,MT,6,Purchase,10
+30,MT,7,Refinance,4
+30,MT,8,Reverse Mortgage,0
+31,NE,1,Auto,3
+31,NE,2,Business Loans,0
+31,NE,4,Home Equity,6
+31,NE,5,Personal,48
+31,NE,11,Prequalification,0
+31,NE,6,Purchase,13
+31,NE,7,Refinance,8
+31,NE,8,Reverse Mortgage,0
+32,NV,1,Auto,7
+32,NV,2,Business Loans,4
+32,NV,10,CreditAnalyzer,0
+32,NV,4,Home Equity,7
+32,NV,5,Personal,83
+32,NV,6,Purchase,21
+32,NV,7,Refinance,19
+32,NV,8,Reverse Mortgage,0
+33,NH,1,Auto,2
+33,NH,2,Business Loans,0
+33,NH,4,Home Equity,2
+33,NH,5,Personal,26
+33,NH,11,Prequalification,0
+33,NH,6,Purchase,4
+33,NH,7,Refinance,8
+33,NH,8,Reverse Mortgage,1
+34,NJ,1,Auto,21
+34,NJ,2,Business Loans,8
+34,NJ,10,CreditAnalyzer,0
+34,NJ,3,Debt Relief,0
+34,NJ,4,Home Equity,20
+34,NJ,5,Personal,295
+34,NJ,11,Prequalification,0
+34,NJ,6,Purchase,71
+34,NJ,7,Refinance,41
+34,NJ,8,Reverse Mortgage,5
+35,NM,1,Auto,3
+35,NM,2,Business Loans,1
+35,NM,4,Home Equity,3
+35,NM,5,Personal,34
+35,NM,6,Purchase,7
+35,NM,7,Refinance,4
+35,NM,8,Reverse Mortgage,1
+36,NY,1,Auto,43
+36,NY,2,Business Loans,9
+36,NY,10,CreditAnalyzer,0
+36,NY,3,Debt Relief,0
+36,NY,4,Home Equity,41
+36,NY,5,Personal,586
+36,NY,11,Prequalification,0
+36,NY,6,Purchase,136
+36,NY,7,Refinance,87
+36,NY,8,Reverse Mortgage,6
+36,NY,9,Student Loans,0
+37,NC,1,Auto,24
+37,NC,2,Business Loans,6
+37,NC,3,Debt Relief,0
+37,NC,4,Home Equity,30
+37,NC,5,Personal,366
+37,NC,6,Purchase,83
+37,NC,7,Refinance,55
+37,NC,8,Reverse Mortgage,3
+38,ND,1,Auto,2
+38,ND,2,Business Loans,0
+38,ND,4,Home Equity,0
+38,ND,5,Personal,11
+38,ND,6,Purchase,4
+38,ND,7,Refinance,7
+38,ND,8,Reverse Mortgage,0
+39,OH,1,Auto,23
+39,OH,2,Business Loans,2
+39,OH,10,CreditAnalyzer,0
+39,OH,3,Debt Relief,0
+39,OH,4,Home Equity,26
+39,OH,5,Personal,307
+39,OH,11,Prequalification,0
+39,OH,6,Purchase,85
+39,OH,7,Refinance,45
+39,OH,8,Reverse Mortgage,2
+40,OK,1,Auto,4
+40,OK,2,Business Loans,0
+40,OK,10,CreditAnalyzer,0
+40,OK,3,Debt Relief,0
+40,OK,4,Home Equity,9
+40,OK,5,Personal,83
+40,OK,6,Purchase,17
+40,OK,7,Refinance,12
+40,OK,8,Reverse Mortgage,1
+41,OR,1,Auto,12
+41,OR,2,Business Loans,3
+41,OR,10,CreditAnalyzer,0
+41,OR,4,Home Equity,4
+41,OR,5,Personal,94
+41,OR,6,Purchase,26
+41,OR,7,Refinance,12
+41,OR,8,Reverse Mortgage,1
+42,PA,1,Auto,30
+42,PA,2,Business Loans,1
+42,PA,10,CreditAnalyzer,0
+42,PA,3,Debt Relief,0
+42,PA,4,Home Equity,37
+42,PA,5,Personal,494
+42,PA,11,Prequalification,0
+42,PA,6,Purchase,104
+42,PA,7,Refinance,74
+42,PA,8,Reverse Mortgage,3
+44,RI,1,Auto,1
+44,RI,2,Business Loans,0
+44,RI,3,Debt Relief,0
+44,RI,4,Home Equity,4
+44,RI,5,Personal,21
+44,RI,6,Purchase,6
+44,RI,7,Refinance,4
+44,RI,8,Reverse Mortgage,0
+45,SC,1,Auto,14
+45,SC,2,Business Loans,2
+45,SC,10,CreditAnalyzer,0
+45,SC,3,Debt Relief,0
+45,SC,4,Home Equity,11
+45,SC,5,Personal,126
+45,SC,6,Purchase,36
+45,SC,7,Refinance,19
+45,SC,8,Reverse Mortgage,0
+46,SD,1,Auto,0
+46,SD,2,Business Loans,0
+46,SD,4,Home Equity,0
+46,SD,5,Personal,16
+46,SD,6,Purchase,3
+46,SD,7,Refinance,3
+46,SD,8,Reverse Mortgage,0
+47,TN,1,Auto,15
+47,TN,2,Business Loans,4
+47,TN,3,Debt Relief,0
+47,TN,4,Home Equity,16
+47,TN,5,Personal,203
+47,TN,6,Purchase,49
+47,TN,7,Refinance,38
+47,TN,8,Reverse Mortgage,2
+48,TX,1,Auto,80
+48,TX,2,Business Loans,12
+48,TX,10,CreditAnalyzer,0
+48,TX,3,Debt Relief,0
+48,TX,4,Home Equity,84
+48,TX,5,Personal,1116
+48,TX,11,Prequalification,0
+48,TX,6,Purchase,233
+48,TX,7,Refinance,130
+48,TX,8,Reverse Mortgage,3
+48,TX,9,Student Loans,0
+49,UT,1,Auto,2
+49,UT,2,Business Loans,2
+49,UT,3,Debt Relief,0
+49,UT,4,Home Equity,9
+49,UT,5,Personal,60
+49,UT,6,Purchase,16
+49,UT,7,Refinance,10
+49,UT,8,Reverse Mortgage,0
+50,VT,1,Auto,0
+50,VT,4,Home Equity,3
+50,VT,5,Personal,6
+50,VT,11,Prequalification,0
+50,VT,6,Purchase,1
+50,VT,7,Refinance,1
+50,VT,8,Reverse Mortgage,0
+51,VA,1,Auto,25
+51,VA,2,Business Loans,5
+51,VA,10,CreditAnalyzer,0
+51,VA,3,Debt Relief,0
+51,VA,4,Home Equity,19
+51,VA,5,Personal,245
+51,VA,6,Purchase,60
+51,VA,7,Refinance,41
+51,VA,8,Reverse Mortgage,0
+53,WA,1,Auto,15
+53,WA,2,Business Loans,4
+53,WA,3,Debt Relief,0
+53,WA,4,Home Equity,23
+53,WA,5,Personal,239
+53,WA,6,Purchase,51
+53,WA,7,Refinance,24
+53,WA,8,Reverse Mortgage,2
+54,WV,1,Auto,2
+54,WV,4,Home Equity,3
+54,WV,5,Personal,38
+54,WV,6,Purchase,11
+54,WV,7,Refinance,10
+54,WV,8,Reverse Mortgage,4
+55,WI,1,Auto,8
+55,WI,2,Business Loans,2
+55,WI,4,Home Equity,12
+55,WI,5,Personal,114
+55,WI,6,Purchase,31
+55,WI,7,Refinance,22
+55,WI,8,Reverse Mortgage,2
+56,WY,1,Auto,2
+56,WY,2,Business Loans,0
+56,WY,4,Home Equity,2
+56,WY,5,Personal,9
+56,WY,6,Purchase,3
+56,WY,7,Refinance,3
+56,WY,8,Reverse Mortgage,0
